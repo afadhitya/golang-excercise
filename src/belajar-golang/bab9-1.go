@@ -1,9 +1,9 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main(){
-	var positifBesar int = 9223372036854775807
+// func main(){
+// 	var positifBesar int = 9223372036854775807
 
-	fmt.Println(positifBesar)
-}
+// 	fmt.Println(positifBesar)
+// }
